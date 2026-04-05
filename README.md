@@ -1,5 +1,7 @@
 # Claude Code CLI — Cheat Sheet
 
+**Live Demo → [https://chris-imade.github.io/claude-code-cheat-sheet](https://chris-imade.github.io/claude-code-cheat-sheet)**
+
 > A comprehensive, interactive cheat sheet for **Claude Code CLI** users. 100+ commands, shortcuts, flags, config references, hooks, MCP setup, and pro tips — all in a single, searchable HTML page with a terminal-inspired dark UI.
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-v2.1.92-d97706?style=for-the-badge&labelColor=1a1120)
